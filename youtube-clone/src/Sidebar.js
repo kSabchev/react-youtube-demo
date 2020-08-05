@@ -9,9 +9,12 @@ function Sidebar() {
     return (
         <div className="sidebar">
            
-           <SidebarRow Icon={HomeIcon} title="Home"/> 
+           <SidebarRow selected='true' Icon={HomeIcon} title="Home"/> 
            <SidebarRow Icon={WhatshotIcon} title="Trending"/>
            <SidebarRow Icon={SubscriptionIcon} title="Subscriptions"/>
+           <hr />
+            
+
         </div>
     )
 }

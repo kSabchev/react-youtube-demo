@@ -1,6 +1,5 @@
 import React from 'react'
 import "./RecommendedVideos.css";
-import Sidebar from './Sidebar';
 
 function RecommendedVideos() {
     return (
