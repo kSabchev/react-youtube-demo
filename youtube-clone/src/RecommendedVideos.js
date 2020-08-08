@@ -7,7 +7,7 @@ import "./VideoCard.css";
 function RecommendedVideos() {
     return (
         <div className="recommendedVideos">
-            <h2></h2>
+            {/* <h2></h2> */}
             <div className="recommendedVideos__videos" >
                 <VideoCard 
                 title=""
