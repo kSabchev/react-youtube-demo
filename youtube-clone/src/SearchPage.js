@@ -14,7 +14,7 @@ function SearchPage() {
             <hr />
 
             <ChannelRow
-            image=""
+            image="https://i.ytimg.com/vi/rJjaqSTzOxI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&amp;rs=AOn4CLBunAWTjl8qA5eq9qL5rmx1KwNkOA"
             channel="tomato potato"
             verified
             subs="123K"
