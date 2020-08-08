@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Sidebar.css"
+import "./SearchPage.css"
 import TuneOutlinedIcon from "@material-ui/icons/TuneOutlined";
 import ChannelRow from "./ChannelRow";
 import VideoRow from "./VideoRow";
