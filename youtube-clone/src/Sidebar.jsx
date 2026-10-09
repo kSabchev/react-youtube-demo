@@ -1,16 +1,16 @@
 import React from 'react'
-import SidebarRow from './SidebarRow.js';
+import SidebarRow from './SidebarRow.jsx';
 import "./Sidebar.css";
-import HomeIcon from '@material-ui/icons/Home';
-import WhatshotIcon from '@material-ui/icons/Whatshot';
-import SubscriptionIcon from '@material-ui/icons/Subscriptions';
+import HomeIcon from '@mui/icons-material/Home';
+import WhatshotIcon from '@mui/icons-material/Whatshot';
+import SubscriptionIcon from '@mui/icons-material/Subscriptions';
 
-import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
-import HistoryIcon from '@material-ui/icons/History';
-import OndemandVideoIcon from '@material-ui/icons/OndemandVideo';
-import WatchLaterIcon from '@material-ui/icons/WatchLater';
-import ThumbUpAltOutlinedIcon from '@material-ui/icons/ThumbUpAltOutlined';
-import ExpandMoreOutlinedIcon from '@material-ui/icons/ExpandMoreOutlined';
+import VideoLibraryIcon from '@mui/icons-material/VideoLibrary';
+import HistoryIcon from '@mui/icons-material/History';
+import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
+import WatchLaterIcon from '@mui/icons-material/WatchLater';
+import ThumbUpAltOutlinedIcon from '@mui/icons-material/ThumbUpAltOutlined';
+import ExpandMoreOutlinedIcon from '@mui/icons-material/ExpandMoreOutlined';
 
 
 
