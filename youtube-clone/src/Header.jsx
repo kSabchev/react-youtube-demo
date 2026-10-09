@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import MenuSharpIcon from "@material-ui/icons/MenuSharp";
-import SearchSharpIcon from "@material-ui/icons/SearchSharp";
-import VideoCallSharpIcon from "@material-ui/icons/VideoCallSharp";
-import AppsSharpIcon from "@material-ui/icons/AppsSharp";
-import NotificationsSharpIcon from "@material-ui/icons/NotificationsSharp";
-import Avatar from "@material-ui/core/Avatar";
+import MenuSharpIcon from "@mui/icons-material/MenuSharp";
+import SearchSharpIcon from "@mui/icons-material/SearchSharp";
+import VideoCallSharpIcon from "@mui/icons-material/VideoCallSharp";
+import AppsSharpIcon from "@mui/icons-material/AppsSharp";
+import NotificationsSharpIcon from "@mui/icons-material/NotificationsSharp";
+import Avatar from "@mui/material/Avatar";
 import "./Header.css";
 import { Link } from "react-router-dom";
 

@@ -1,6 +1,6 @@
 import React from "react";
 import "./SearchPage.css";
-import TuneOutlinedIcon from "@material-ui/icons/TuneOutlined";
+import TuneOutlinedIcon from "@mui/icons-material/TuneOutlined";
 import ChannelRow from "./ChannelRow";
 import VideoRow from "./VideoRow";
 
